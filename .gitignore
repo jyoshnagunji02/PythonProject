@@ -1,0 +1,14 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
